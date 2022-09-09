@@ -1,0 +1,4 @@
+change laptop image in index.html. 
+Snip laptop part and its details from 1.png file and put in index.html in place of laptop
+
+Tax automation card, Total revenue card and card with girl, diamond and should stay editable as done in index.html
